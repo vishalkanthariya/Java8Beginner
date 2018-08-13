@@ -15,6 +15,7 @@ public class TestLemda {
 				.mapToInt(e->e*2)
 				.sum()
 				);
+		System.out.println("vishal");
 	}
 
 }
